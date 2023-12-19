@@ -1,5 +1,5 @@
 import React from 'react';
-import ResumeDL from './assets/Erica_Breig_Resume_WD_2023.pdf';
+import ResumeDL from `./assets/Erica_Breig_Resume_WD_2023.pdf`
 
 export default function Resume() {
     return (
